@@ -1,0 +1,25 @@
+body{
+  background-color: blue;
+  margin: auto;
+  margin: auto;
+}
+
+h1{
+  color: rgb(12, 90, 62);
+}
+
+#back-image {
+  background-image:url(../image/back-blue.jpg);
+  background-repeat: repeat;
+  background-size: auto;
+  padding: 10px;
+
+}
+
+#link-box {
+  width: 300px;
+  padding: 5px 0px 5px 5px;
+  margin: 10px;
+  background-color: rgb(14, 131, 220);
+  border-radius: 10px;
+  }
