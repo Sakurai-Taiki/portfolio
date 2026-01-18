@@ -109,6 +109,11 @@ h1 {
     width: 100%;
   }
 
+  .menu-toggle {
+    font-size: 18px;
+    padding: 10px;
+  }
+
   .menu li {
     padding: 15px;
     border-bottom: 1px solid #ccc;
