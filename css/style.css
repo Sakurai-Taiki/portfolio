@@ -110,7 +110,7 @@ h1 {
   }
 
   .menu-toggle {
-    font-family: auto;
+    font-family: "Noto Sans JP", Arial, sans-serif;
     font-size: 18px;
     padding: 2px;
     font-weight: bold;
