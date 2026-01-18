@@ -110,7 +110,8 @@ h1 {
   }
 
   .menu-toggle {
-    font-size: 30px;
+    font-family: cursive;
+    font-size: 18px;
     padding: 2px;
     font-weight: bold;
   }
