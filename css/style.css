@@ -111,7 +111,8 @@ h1 {
 
   .menu-toggle {
     font-size: 18px;
-    padding: 10px;
+    padding: 2px;
+    font-weight: bold;
   }
 
   .menu li {
