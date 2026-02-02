@@ -27,36 +27,37 @@ h1 {
 }
 
 #top{
+  position: relative;
   background-image: url("../image/haikei-01.jpeg");
   background-size:cover;
   background-repeat: no-repeat;
   background-position:center ;
+  width: 100%;
   min-height: 100vh;
   margin: 0;
   z-index: 6;
-    &::after{
-    content:"";
-    width:120%;
-    height:100px;
-    position:absolute;
-    bottom:0;
-    left:50%;
-    background:#fff;
-    transform:translate(-50%,50%);
-    border-radius:100%;
-  }
+}
+
+#top-comment{
+  color: #fff;
+  font-weight: bold;
+  font-size: 18px;
+  margin-top: 200px;
+  margin-left: 30px;
 }
 
 
 
 
 #profile{
+  position: relative;
   margin-top: -60px;
   padding-top: 60px;
   background-image: url("../image/haikei-05.jpeg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
+  width: 100%;
   min-height: 100vh;
 }
 
